@@ -33,5 +33,5 @@ ax2.set_xticklabels(months)
 plt.legend(['Key Limes','Persian Limes', 'Blood Limes'], loc=1)
 plt.title('Lime Sales Per Month')
 
-plt.show()
 plt.savefig('sublime_limes_line_graphs.png')
+plt.show()
